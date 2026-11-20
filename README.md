@@ -6,11 +6,11 @@ High-impact Senior Application Engineer with 5+ years of experience specializing
 
 ## TECHNICAL SKILLS ##
 
-**Languages & Frameworks:** Java, SQL, Python, C++, C#, HTML/CSS, Spring Boot, Swift, JUnit, PACT                                                                                                                                                     .
-**Cloud & DevOps:** AWS, Jenkins, Nexus, CI/CD Pipelines, Git                                                                                                                                                                                         .
-**Architecture & Tools:** RESTful APIs, Decision Engines (Blaze Advisor 7.x), Microservices, JIRA, Visual Studio, Eclipse, Google Web Toolkit                                                                                                         .
-**Certifications:** Best RESTful API Practices                                                                                                                                                                                                        .
-**Languages:** English (*Native*), Spanish (*Conversational*)                                                                                                                                                                                         .
+**Languages & Frameworks:** Java, SQL, Python, C++, C#, HTML/CSS, Spring Boot, Swift, JUnit, PACT <br>                                                                                                                                     
+**Cloud & DevOps:** AWS, Jenkins, Nexus, CI/CD Pipelines, Git                                                         <br>                                                                                                                                 
+**Architecture & Tools:** RESTful APIs, Decision Engines (Blaze Advisor 7.x), Microservices, JIRA, Visual Studio, Eclipse, Google Web Toolkit            <br>                                                                                             
+**Certifications:** Best RESTful API Practices                                                                                                     <br>                                                                                                  
+**Languages:** English (*Native*), Spanish (*Conversational*)                                                                                      <br>                                                                                                   
 
 ## PROFESSIONAL EXPERIENCE ##
 

@@ -41,7 +41,8 @@ High-impact Senior Application Engineer with 5+ years of experience specializing
 
 
 ## KEY PROJECTS ##
-**InvestigationVR** (Senior Capstone): Designed and built a Virtual Reality forensic laboratory simulation using C# and Unity, incorporating analytical tasks and dynamic suspect selection mechanics.  
+### **InvestigationVR** (Senior Capstone)
+Designed and built a Virtual Reality forensic laboratory simulation using C# and Unity, incorporating analytical tasks and dynamic suspect selection mechanics.  
 ______________________________________________________________________________________________________________________________
 ## EDUCATION  ##
 ### Monmouth College | *Monmouth, IL*

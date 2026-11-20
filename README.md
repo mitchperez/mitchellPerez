@@ -14,7 +14,7 @@ Languages: English (Native), Spanish (Conversational)
 
 ## PROFESSIONAL EXPERIENCE ##
 
-### Capital One *Remote*
+### Capital One | *Remote*
 #### Senior Associate Application Engineer | Dec 2025 – Present
 System Architecture & Leadership: Architected and collaborated with a 4-developer engineering team in building a high-throughput decisioning system integrating Discover and Capital One bureau/card data for personal loan applicant evaluation.
 Deployment Automation: Streamlined deployment workflows across environments by releasing core Java builds utilizing Jenkins and Nexus pipelines.
@@ -39,12 +39,11 @@ Agile Execution: Collaborated in Agile environments to guarantee sprint goals an
 Full-Lifecycle Web Engineering: Designed, deployed, and maintained production websites for legal firm clients.
 Infrastructure & Troubleshooting: Diagnosed and resolved complex office network and connectivity issues, maintaining 99.9% uptime and optimal infrastructure performance.
 
+
 ## KEY PROJECTS ##
-
 ### InvestigationVR # (Senior Capstone): Designed and built a Virtual Reality forensic laboratory simulation using C# and Unity, incorporating analytical tasks and dynamic suspect selection mechanics.
-
+______________________________________________________________________________________________________________________________
 ## EDUCATION  ##
-
 ### Monmouth College  | *Monmouth, IL*
 Bachelor of Arts in Computer Science (Minor in Investigative Forensics) | May 2021
 Leadership & Engagement: Assistant Lacrosse Coach, Assistant Captain/Captain Men's Lacrosse.
